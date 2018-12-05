@@ -1,0 +1,13 @@
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\nlp-with-luis.bot
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\LuisBot.deps.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\LuisBot.runtimeconfig.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\LuisBot.runtimeconfig.dev.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\LuisBot.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\LuisBot.pdb
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.csproj.CoreCompileInputs.cache
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.AssemblyInfoInputs.cache
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.AssemblyInfo.cs
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.pdb
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\LuisBot.csprojAssemblyReference.cache

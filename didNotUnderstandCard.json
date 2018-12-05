@@ -1,0 +1,30 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "large",
+      "weight": "bolder",
+      "text": "I am sorry I did not understand your question. I can only assist you with the following questions:",
+      "color": "accent",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "text": "Downtime for equipment by ID",
+      "spacing": "small"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "text": "Average equipment downtime by location",
+      "separation": "none",
+      "spacing": "small"
+    }
+  ]
+}

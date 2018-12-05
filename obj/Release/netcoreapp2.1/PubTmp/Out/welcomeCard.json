@@ -1,0 +1,53 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://rtmultimedia.blob.core.windows.net/images/Fugro.jpg",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "size": "extraLarge",
+      "weight": "bolder",
+      "text": "Welcome to the Downtime Bot!",
+      "color": "accent"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "text": "I can get the following information for you:",
+      "wrap": true,
+      "maxLines": 0,
+      "color": "dark",
+      "weight": "bolder"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "text": "Downtime for equipment by ID",
+      "color": "dark"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "text": "Average equipment downtime by location",
+      "separation": "none",
+      "color": "dark"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Fugro",
+      "url": "https://www.fugro.com/"
+    },    
+    {
+      "type": "Action.OpenUrl",
+      "title": "Power BI",
+      "url": "https://powerbi.microsoft.com/en-us/"
+    }
+  ]
+}

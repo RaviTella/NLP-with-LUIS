@@ -1,0 +1,16 @@
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\hostpolicy.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\hostfxr.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.exe
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\nlp-with-luis.bot
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.deps.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.runtimeconfig.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.runtimeconfig.dev.json
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\bin\Release\netcoreapp2.0\win-x86\LuisBot.pdb
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.csprojAssemblyReference.cache
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.csproj.CoreCompileInputs.cache
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\UserSecretsAssemblyInfo.cs
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.AssemblyInfoInputs.cache
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.AssemblyInfo.cs
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.dll
+C:\Users\ratella\Source\Repos\botbuilder-samples\samples\csharp_dotnetcore\12.nlp-with-luis\obj\Release\netcoreapp2.0\win-x86\LuisBot.pdb
