@@ -7,8 +7,8 @@
         "endpoint": "https://rtluisbot.azurewebsites.net/api/messages",
         "id": "233",
         "name": "production",
-        "appId": "a81f0d18-201b-4a4f-8360-885a8cb46f8b",
-        "appPassword": "qfdgfAWRZW5;!cgFI7253_="
+        "appId": "",
+        "appPassword": ""
       },
         {
             "type": "endpoint",

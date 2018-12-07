@@ -2,14 +2,14 @@
     "name": "LuisBot",
     "description": "",
     "services": [
-      {
-        "type": "endpoint",
-        "endpoint": "https://rtluisbot.azurewebsites.net/api/messages",
-        "id": "233",
-        "name": "production",
-        "appId": "",
-        "appPassword": ""
-      },
+        {
+            "type": "endpoint",
+            "appId": "a81f0d18-201b-4a4f-8360-885a8cb46f8b",
+            "appPassword": "qfdgfAWRZW5;!cgFI7253_=",
+            "endpoint": "",
+            "id": "233",
+            "name": "production"
+        },
         {
             "type": "endpoint",
             "endpoint": "http://localhost:3978/api/messages",
@@ -18,8 +18,8 @@
         },
         {
             "type": "luis",
-            "appId": "101ba80f-318b-4c44-be52-e2e34e9b09bf",
-            "authoringKey": "ef7fac1ec83a4150a807e560fc7a9beb",
+            "appId": "",
+            "authoringKey": "",
             "id": "158",
             "name": "LuisBot",
             "region": "westus",
@@ -28,6 +28,6 @@
     ],
     "padlock": "",
     "version": "2.0",
-    "path": "C:\\Users\\ratella\\Source\\Repos\\botbuilder-samples\\samples\\csharp_dotnetcore\\12.nlp-with-luis\\nlp-with-luis.bot",
+    "path": "C:\\Users\\ratella\\Source\\Repos\\NLP-with-LUIS\\nlp-with-luis.bot",
     "overrides": null
 }
